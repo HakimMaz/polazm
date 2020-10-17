@@ -9,6 +9,9 @@ function App() {
     
     <Router>
     <div className="app">
+      <div style={{
+        height:"100px"
+      }}>hello logo</div>
       <Header />
       <Main/>
       <Footer/>
